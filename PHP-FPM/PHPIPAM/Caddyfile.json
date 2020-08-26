@@ -4,7 +4,6 @@
       "servers": {
         "exmaple.com": {
           "listen": [":8080"],
-          "logs": {},
           "routes": [
             {
               "handle": [
